@@ -19,7 +19,7 @@ git branch -M main
 git push -u origin main
 ```
 
-### Git hub usefull link
+### Github useful links
 
 [Quick Start](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
